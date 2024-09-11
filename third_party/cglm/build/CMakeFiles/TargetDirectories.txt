@@ -1,0 +1,9 @@
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/cglm.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/package.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/package_source.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/edit_cache.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/rebuild_cache.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/list_install_components.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/install.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/install/local.dir
+/home/mumu/CEnv/otus_homework/textured_cube/third_party/cglm/build/CMakeFiles/install/strip.dir
