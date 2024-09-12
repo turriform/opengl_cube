@@ -12,6 +12,11 @@ sdl2 for window
 ./bin/prog
 ESC 
 ```
+
+looks like this:
+
+![opengl cube](https://github.com/turriform/opengl_cube/blob/main/cube.png)
+
 outputs this:
 
 ```
@@ -60,9 +65,7 @@ Matrix (float4x4):
 End of loop 
 SDL quit
 ```
-looks like
 
-![opengl cube](https://github.com/turriform/opengl_cube/blob/main/cube.png)
 
 
 
