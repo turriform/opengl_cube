@@ -60,7 +60,9 @@ Matrix (float4x4):
 End of loop 
 SDL quit
 ```
+looks like
 
+![opengl cube](https://github.com/turriform/opengl_cube/blob/main/cube.png)
 
 
 
